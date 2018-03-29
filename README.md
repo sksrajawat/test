@@ -1,2 +1,104 @@
-# test
-test
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>SAP C4C Hackathon 2018</title>
+<meta name="description" content="Simple Responsive Template is a template for responsive web design. Mobile first, responsive grid layout, toggle menu, navigation bar with unlimited drop downs, responsive slideshow">
+<meta name="keywords" content="">
+
+<!-- Mobile viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<link rel="shortcut icon" href="images/favicon.ico"  type="image/x-icon">
+
+<!-- CSS-->
+<!-- Google web fonts. You can get your own bundle at http://www.google.com/fonts. Don't forget to update the CSS accordingly!-->
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Ubuntu' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="js/flexslider/flexslider.css">
+<link rel="stylesheet" href="css/basic-style.css">
+
+<!-- end CSS-->
+    
+<!-- JS-->
+<script src="js/libs/modernizr-2.6.2.min.js"></script>
+<!-- end JS-->
+
+
+<!-- columns demo style. DELETE IT! -->
+<style type="text/css">
+<!--
+
+#columnsdemo .grid_1,
+#columnsdemo .grid_2,
+#columnsdemo .grid_3,
+#columnsdemo .grid_4,
+#columnsdemo .grid_5,
+#columnsdemo .grid_6,
+#columnsdemo .grid_7,
+#columnsdemo .grid_8,
+#columnsdemo .grid_9,
+#columnsdemo .grid_10,
+#columnsdemo .grid_11,
+#columnsdemo .grid_12 {
+border: solid 1px #999;
+color:#999;
+text-align: center;
+margin-top:20px;
+padding:20px 15px;
+}
+-->
+</style>
+</head>
+
+<body id="home">
+  
+<!-- header area -->
+    <header class="wrapper clearfix">
+		       
+        <div id="banner">        
+        	<div id="logo"><a href="basic.html"><img src="images/s.png" alt="logo"></a></div> 
+        </div>
+        
+        <!-- main navigation -->
+        <nav id="topnav" role="navigation">
+          <div class="menu-toggle">Menu</div>  
+          <ul class="srt-menu" id="menu-main-navigation">
+              <li class="current"><a href="http://www.google.com">Home page</a></li>
+
+              <li><a href="ViewARmode://scheme">View In AR </a></li>
+              
+              
+          </ul>     
+		</nav><!-- end main navigation -->
+  
+    </header><!-- end header -->
+ 
+ 
+<!-- hero area (the grey one with a slider -->
+    <section id="hero" class="clearfix">    
+    <!-- responsive FlexSlider image slideshow -->
+    <div class="wrapper">
+       <div class="row"> 
+        <div class="grid_5">
+            <h1>SAP C4C Hackathon 2018</h1>
+            <p> Welcome To  SAP C4C Hackathon 2018 
+            </p>
+            
+        </div>
+        
+        </div><!-- end row -->
+       </div><!-- end wrapper -->
+    </section><!-- end hero area -->
+
+
+
+
+</body>
+</html>
